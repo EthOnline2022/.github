@@ -2,7 +2,7 @@
 
 ***A Free Market for Accelerating Scientific Discovery***
 
-![desci-exchange-screenshot](assets/desci-exchange-how-it-works.png)
+![how-it-works](https://user-images.githubusercontent.com/2808553/190667341-ce6fc007-1392-4dd1-8c98-35966eb62e56.png)
 
 ## Benefits
 
