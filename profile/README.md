@@ -48,6 +48,8 @@
 
 ## Detailed Technical Flow
 
+![desci-exchange-diagram](https://user-images.githubusercontent.com/2808553/190667903-48393cbb-ff52-43e0-8e75-76139fac8086.png)
+
 1. The user clicks to connect your Metamask wallet at [desci.exchange](https://desci.exchange) links to the user's
    Ceramic DID with the [Self.ID SDK](https://developers.ceramic.network/reference/self-id/)
 2. The user clicks the "Import" button on one of the 3rd party data sources like Fitbit or Oura to connect their account.
