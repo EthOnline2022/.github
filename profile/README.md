@@ -69,7 +69,7 @@ const variables = await fetch(
 ```
 
 9. The user sees a [list of variables](https://api.curedao.org/api/v3/variables?accessToken=demo) whose measurements they can to sell.
-   ![variables.png](variables.png)
+   ![variables.png](https://github.com/EthOnline2022/desci-exchange/raw/main/variables.png)
 10. They can click a "Sell Data" button set a price, and click submit.
 11. A GET request is made to the `variable.url` to fetch an HTML mega-study for that variable including data
     visualizations and relationships with other variables.
@@ -138,7 +138,7 @@ const fileUrl = `https://ipfs.io/ipfs/${ipfsCid}`
 
 14. The NFT contract, price, image, and sale status is stored using TableLand.
 15. All NFTs for all users are fetched from Tableland and listed on the "Data Marketplace" page
-    ![desci-exchange-screenshot](assets/desci-exchange-screenshot.png)
+    ![desci-exchange-screenshot](https://github.com/EthOnline2022/desci-exchange/raw/main/assets/desci-exchange-screenshot.png)
 16. A data buyer such as a pharmaceutical or insurance company purchases a data set
 17. You get 99% of the tokens, the app receives 0.5%, and DeSci Exchange DAO token holders receive 0.5%
 
